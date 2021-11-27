@@ -1,0 +1,19 @@
+.toolbar{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+.logo img{
+   height: 100px;
+   width: 100px;}
+.links a{
+    text-decoration: none;
+    color: rgb(154, 199, 154)}
+.singIn {
+    padding: 5px 15px;
+    border: 4px solid rgb(154, 199, 154);
+    text-transform: uppercase;
+    border-radius: 25px;
+}
